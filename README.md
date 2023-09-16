@@ -4,8 +4,6 @@ A Tip Calculator App that runs on Android. Insert the cost and select the tip op
 
 <_Part of Google Developers Basic Android Course in Kotlin Unit 2_>
 
-&nbsp;
-
 ### Application Architecture
 ---
 - IDE: Android Studio
@@ -14,7 +12,9 @@ A Tip Calculator App that runs on Android. Insert the cost and select the tip op
 
 ### Demo
 ---
-<img src="https://github.com/zask45/android-kotlin-dice-roller/assets/117462539/2e139ced-65c7-4239-8610-36a2cb019d99" width="35%">
+<img src="https://github.com/zask45/android-kotlin-tip-time-app/assets/117462539/630fdbd5-92df-48df-81df-02f70ae4b6d3" width="35%">
+
+
 
 
 
